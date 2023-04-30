@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telephony Services</string>
+    <string name="Welcome_text">Android Studio\nTelephony Services</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="reset">Reset?</string>
+    <string name="hello_again">Hello again!</string>
+    <string name="send">Take photo</string>
+    <string name="wel2">Here is Your Mobile\'s Info.</string>
+    <string name="def">TextView</string>
+    <string name="network_info">Network Operator: %1$s\nPhone Type: %2$s\nNetwork Country ISO: %3$s\nSIM Country ISO: %4$s\nSoftware Version: %5$s</string>
+
+</resources>
